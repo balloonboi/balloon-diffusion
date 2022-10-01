@@ -26,5 +26,5 @@ If you would like to help with the training of Balloon Diffusion 1.2, I have a K
 
 https://ko-fi.com/balloonboi
 
-# Comparisions and Samples:
+# Comparisons and Samples:
 Coming Soon
