@@ -23,6 +23,7 @@ HOWEVER, due to the VRAM requirements of Waifu Diffusion (needing 30gb of VRAM o
 
 # Support
 If you would like to help with the training of Balloon Diffusion 1.2, I have a Ko-fi, and a goal set for the (approximate, these are my calculations) amount needed to train Balloon Diffusion 1.2. It will get trained eventually, however it is a while off at the moment.
+
 https://ko-fi.com/balloonboi
 
 # Comparisions and Samples:
