@@ -7,6 +7,7 @@ https://drive.google.com/file/d/17_jY9SjiUFKawPWpfYRcxToQu2ihls3U/view?usp=shari
 
 # How to Use
 [TUTORIAL COMING SOON]
+
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 Note: **An NVIDIA GPU is required, preferably above 6gb of VRAM!!**
 
@@ -27,4 +28,6 @@ If you would like to help with the training of Balloon Diffusion 1.2, I have a K
 https://ko-fi.com/balloonboi
 
 # Comparisons and Samples:
-Coming Soon
+https://drive.google.com/drive/folders/1_2Y6Vfh0Pf0ZqzKmAZesW1XTOmTvYI5q?usp=sharing
+
+Samples coming soon!
