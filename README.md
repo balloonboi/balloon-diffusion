@@ -2,8 +2,8 @@
 A Stable Diffusion model trained only on inflation content.
 
 # Model
-Link to **PRUNED** Balloon Diffusion v1.1 Model:
-https://drive.google.com/file/d/1EN7zQkv4z4m7et5IuLOm-DIO9l-ILWFN/view?usp=sharing
+Link to **PRUNED** Balloon Diffusion v1.1.1 Model:
+https://drive.google.com/file/d/17_jY9SjiUFKawPWpfYRcxToQu2ihls3U/view?usp=sharing
 
 # How to Use
 I will not provide instructions here, but check out the stable-diffusion-webui repo to use it.
