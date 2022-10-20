@@ -6,9 +6,9 @@ Link to **PRUNED** Balloon Diffusion v1.1.1 Model:
 https://drive.google.com/file/d/17_jY9SjiUFKawPWpfYRcxToQu2ihls3U/view?usp=sharing
 
 # How to Use
-[TUTORIAL COMING SOON]
+Tutorial:
+https://docs.google.com/document/d/1qDr8_w6xegwvI21Z7NjuRs_au44YdSJz_CLt-gVrbf8/edit?usp=sharing
 
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
 Note: **An NVIDIA GPU is required, preferably above 6gb of VRAM!!**
 
 # About Balloon Diffusion
