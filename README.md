@@ -31,7 +31,7 @@ is officially a work in progress! I finished up the final dataset a few days ago
 
 I also have decided to do 10 epochs in total on the data, as opposed to the 4 I did for v1.1. The more epochs I can do, the better. What this means, however, is that it will need significantly more time to train, and more powerful GPUs to run on, in order to complete in a timely manner. I plan to once again rent out A6000s through vast.ai, but a 4x machine, instead of a 2x, which is what v1.1 was trained on.
 
-However, this means that I will need significantly more money to rent out the GPUs to train it on. I recently lost my job, and have put off funding it with my own money for the time being. If you're intereted in supporting, see below, anything is appreciated, nothing is required.
+However, this means that I will need significantly more money to rent out the GPUs to train it on. I recently lost my job, and have put off funding it with my own money for the time being. If you're interested in supporting, see below, anything is appreciated, nothing is required.
 
 # Support
 If you would like to help with the training of Balloon Diffusion 1.2, I have a Ko-fi, and a goal set for the (approximate, these are my calculations) amount needed to train Balloon Diffusion 1.2. It will get trained eventually, however it is a while off at the moment.
@@ -46,4 +46,5 @@ https://discord.gg/ECc9T5P43A
 If you don't want to join a server, check out my Twitter! While updates are less frequent, I have been posting updates relating to v1.2 for a while.
 
 https://twitter.com/BalloonBoiAD
+
 @BalloonBoiAD
